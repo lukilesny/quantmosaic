@@ -24,3 +24,4 @@ y = 100 # dimension of generated image ( # of tiles in y dimension)
 ```
 at the begining of notebook.
 
+![](artworks/bw.gif)
